@@ -1,0 +1,8 @@
+#skills{
+	font-family: Times;
+	font-size: 14pt;
+	color:powderblue;
+}
+p + p, li + li, h1 + h3{
+	margin-top: 20px;
+}
